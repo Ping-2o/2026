@@ -1,7 +1,7 @@
 Name: Yedil Pauyedin
-Status:
+Status: Submitted
 ProjectTitle: Nook
-Technologies: UIKit, AVFoundation, SwiftUI
+Technologies: UIKit, AVFoundation, SwiftUI, Foundation Models
 
 AboutMeUrl:
 SourceUrl: https://github.com/Ping-2o/2026
